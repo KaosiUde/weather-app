@@ -1,0 +1,143 @@
+
+{
+    "weatherInfo": {
+        "Baldwin City, KS": [
+            {
+                "day": "Today",
+                "highTemp": "62°F",
+                "lowTemp": "35°F",
+                "currentTemp": "53°F",
+                "weatherType": "Cloudy",
+                "weatherDescription": "Today is cloudy conditions with 16mph winds out of the north",
+                "feelsLike": "50°F",
+                "chanceOfRain": "10%",
+                "humidity": "25%",
+                "wind": "16 mph"                
+            },
+            {
+                "day": "Wednesday",
+                "highTemp": "62°F",
+                "lowTemp": "35°F",
+                "currentTemp": "56°F",
+                "weatherType": "Cloudy",
+                "weatherDescription": "Today is cloudy conditions with 16mph winds out of the north",
+                "feelsLike": "50°F",
+                "chanceOfRain": "10%",
+                "humidity": "25%",
+                "wind": "16 mph"                
+            },
+            {
+                "day": "Thursday",
+                "highTemp": "62°F",
+                "lowTemp": "35°F",
+                "currentTemp": "59°F",
+                "weatherType": "Cloudy",
+                "weatherDescription": "Today is cloudy conditions with 16mph winds out of the north",
+                "feelsLike": "50°F",
+                "chanceOfRain": "10%",
+                "humidity": "25%",
+                "wind": "16 mph"                
+            },
+            {
+                "day": "Friday",
+                "highTemp": "62°F",
+                "lowTemp": "35°F",
+                "currentTemp": "60°F",
+                "weatherType": "Cloudy",
+                "weatherDescription": "Today is cloudy conditions with 16mph winds out of the north",
+                "feelsLike": "50°F",
+                "chanceOfRain": "10%",
+                "humidity": "25%",
+                "wind": "16 mph"                
+            },
+            {
+                "day": "Saturday",
+                "highTemp": "62°F",
+                "lowTemp": "35°F",
+                "currentTemp": "51°F",
+                "weatherType": "Cloudy",
+                "weatherDescription": "Today is cloudy conditions with 16mph winds out of the north",
+                "feelsLike": "50°F",
+                "chanceOfRain": "10%",
+                "humidity": "25%",
+                "wind": "16 mph"                
+            }
+        ],
+        "Kansas City, MO": [
+            {
+                "day": "Today",
+                "highTemp": "62°F",
+                "lowTemp": "35°F",
+                "currentTemp": "53°F",
+                "weatherType": "Cloudy",
+                "weatherDescription": "Today is cloudy conditions with 16mph winds out of the north",
+                "feelsLike": "50°F",
+                "chanceOfRain": "10%",
+                "humidity": "25%",
+                "wind": "16 mph"                
+            },
+            {
+                "day": "Today",
+                "highTemp": "62°F",
+                "lowTemp": "35°F",
+                "currentTemp": "53°F",
+                "weatherType": "Cloudy",
+                "weatherDescription": "Today is cloudy conditions with 16mph winds out of the north",
+                "feelsLike": "50°F",
+                "chanceOfRain": "10%",
+                "humidity": "25%",
+                "wind": "16 mph"                
+            },
+            {
+                "day": "Today",
+                "highTemp": "62°F",
+                "lowTemp": "35°F",
+                "currentTemp": "53°F",
+                "weatherType": "Cloudy",
+                "weatherDescription": "Today is cloudy conditions with 16mph winds out of the north",
+                "feelsLike": "50°F",
+                "chanceOfRain": "10%",
+                "humidity": "25%",
+                "wind": "16 mph"                
+            }
+        ],
+        "Raytown, MO": [
+            {
+                "day": "Today",
+                "highTemp": "62°F",
+                "lowTemp": "35°F",
+                "currentTemp": "53°F",
+                "weatherType": "Cloudy",
+                "weatherDescription": "Today is cloudy conditions with 16mph winds out of the north",
+                "feelsLike": "50°F",
+                "chanceOfRain": "10%",
+                "humidity": "25%",
+                "wind": "16 mph"                
+            },
+            {
+                "day": "Today",
+                "highTemp": "62°F",
+                "lowTemp": "35°F",
+                "currentTemp": "53°F",
+                "weatherType": "Cloudy",
+                "weatherDescription": "Today is cloudy conditions with 16mph winds out of the north",
+                "feelsLike": "50°F",
+                "chanceOfRain": "10%",
+                "humidity": "25%",
+                "wind": "16 mph"                
+            },
+            {
+                "day": "Today",
+                "highTemp": "62°F",
+                "lowTemp": "35°F",
+                "currentTemp": "53°F",
+                "weatherType": "Cloudy",
+                "weatherDescription": "Today is cloudy conditions with 16mph winds out of the north",
+                "feelsLike": "50°F",
+                "chanceOfRain": "10%",
+                "humidity": "25%",
+                "wind": "16 mph"                
+            }
+        ]
+    }
+}
