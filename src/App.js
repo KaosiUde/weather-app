@@ -1,9 +1,9 @@
 import './App.css';
-import MultiDayView from './components/MultiDayView'
+import WeatherComponent from './components/WeatherComponent'
 
 function App() {
   return (
-    <MultiDayView/>
+    <WeatherComponent/>
   );
 }
 

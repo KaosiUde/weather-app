@@ -1,3 +1,8 @@
+# About This Project
+
+This project was done for my Programming Languages semester project.\
+The purpose of this project is to be a weather application that given three locations, Baldwin City Kansas City & Raytown, the user is able to choose between viewing the current weather of the location they chose, or viewing the five-day forcast for that same location.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

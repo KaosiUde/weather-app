@@ -4,8 +4,16 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   box-sizing: border-box;
-  font-size: 25px;
+  font-size: 23px;
   background-color: #efeeed;
+}
+
+.button {
+  margin: 4px 30px;
+}
+
+.card-text {
+  text-align: left;
 }
 
 code {
